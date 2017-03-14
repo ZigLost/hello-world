@@ -1,2 +1,5 @@
 # hello-world
-Hello GitHub
+
+Hello,
+
+I'm interested in MERN stack and I wonna be full stack JS developer!
